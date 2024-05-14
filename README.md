@@ -9,7 +9,10 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ![](./assets/images/screenshot.PNG)
 
-You can check it out live [here](https://xstephx.github.io/single-price-grid-component-challenge/).
+### Links
+
+- Solution URL: [here](https://www.frontendmentor.io/solutions/solution-single-price-grid-component-Zp_H7MMRul)
+- Live Site URL: [here](https://xstephx.github.io/single-price-grid-component-challenge/)
 
 ## My process
 
